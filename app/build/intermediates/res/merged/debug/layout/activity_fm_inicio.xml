@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    tools:context="com.example.bmxmajo.obraspublicastulancingo.fmInicio">
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="320dp"
+        android:id="@+id/listView_datos"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#424242"
+        android:divider="#c5c4c4"
+        android:dividerHeight="2dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/txt_nombre_inicio"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/listView_datos"
+        android:layout_alignStart="@+id/listView_datos"
+        android:layout_marginTop="40dp"
+        android:textSize="12dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/txt_correo"
+        android:layout_below="@+id/txt_nombre_inicio"
+        android:layout_marginTop="10dp"
+        android:textSize="12dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignLeft="@+id/txt_nombre_inicio"
+        android:layout_alignStart="@+id/txt_nombre_inicio" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Denuncias que ha realizado"
+        android:id="@+id/txt_title_tabla"
+        android:layout_above="@+id/listView_datos"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:textSize="18dp"
+        android:textColor="#18bc6a" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="Datos del Usuario"
+        android:id="@+id/textView2"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="18dp"
+        android:textColor="#18bc6a" />
+
+</RelativeLayout>

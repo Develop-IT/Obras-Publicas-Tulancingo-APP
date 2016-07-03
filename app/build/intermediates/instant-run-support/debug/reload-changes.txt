@@ -1,0 +1,13 @@
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\fmDenuncia$MyLocationListener$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\fmDenuncia$2$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\fmDenuncia$MyLocationListener$1$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\fmDenuncia$3$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\Login$1$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\Login$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\Login$3$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\fmDenuncia$AttemptUpload$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\Login$2$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\fmDenuncia$Attemptpicture$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\fmDenuncia$override.class
+CHANGED,C:\Users\BMXMajo\Desktop\ObrasPublicasTulancingo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\bmxmajo\obraspublicastulancingo\Login$AttemptLogin$override.class

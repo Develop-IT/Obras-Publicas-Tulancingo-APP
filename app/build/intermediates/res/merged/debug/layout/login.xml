@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login"
+    >
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:background="#424242"
+
+       android:orientation="vertical">
+
+       <ImageView
+           android:layout_width="150dp"
+           android:layout_height="150dp"
+           android:src="@drawable/logo_fin2"
+           android:layout_gravity="center_horizontal" />
+
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:text="Obras Publicas Tulancingo"
+           android:textColor="#ffffff"
+           android:layout_gravity="center_horizontal"
+           android:textSize="25dp" />
+
+       <android.support.design.widget.TextInputLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+
+           <AutoCompleteTextView
+               android:id="@+id/user"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:hint="Usuario"
+               android:inputType="text"
+               android:maxLines="1"
+               android:singleLine="true"
+               android:textColorHint="#ffffff"/>
+
+       </android.support.design.widget.TextInputLayout>
+
+       <android.support.design.widget.TextInputLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content">
+
+           <EditText
+               android:id="@+id/passworddr"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:hint="Contraseña"
+               android:imeActionId="@+id/login"
+               android:imeActionLabel="Cola"
+               android:imeOptions="actionUnspecified"
+               android:inputType="textPassword"
+               android:maxLines="1"
+               android:singleLine="true"
+               android:textColorHint="#ffffff"/>
+
+       </android.support.design.widget.TextInputLayout>
+
+      <RelativeLayout
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:layout_marginTop="20dp">
+
+          <Button
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Aceptar"
+              android:id="@+id/button"
+              android:background="#18bc6a"
+              android:textColor="#ffffff"
+              android:layout_gravity="left"
+              android:layout_marginLeft="40dp"
+              android:elevation="10dp" />
+
+          <Button
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:text="Registrar"
+              android:id="@+id/user_register"
+              android:background="#18bc6a"
+              android:textColor="#ffffff"
+              android:layout_gravity="left"
+              android:layout_marginLeft="185dp"
+              android:elevation="10dp" />
+
+
+
+      </RelativeLayout>
+
+   </LinearLayout>
+
+
+</RelativeLayout>

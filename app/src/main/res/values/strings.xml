@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ObrasPublicasTulancingo</string>
+    <string name="app_login">Login</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="tipo_denuncia">
+        <item>Alumbrado Público</item>
+        <item>Bache</item>
+        <item>Obra en progreso</item>
+        <item>Otro</item>
+    </string-array>
+
+</resources>
